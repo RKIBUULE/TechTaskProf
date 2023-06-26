@@ -1,0 +1,39 @@
+*{
+    background-color: D3D3D3;
+    font-family: 'Lato', sans-serif;
+}
+
+.header{
+    /* display: flex; */
+    border-style: solid;
+    background-color: hsl(222, 11%, 17%);
+    padding-left: 70%;
+    color: white;
+}
+.header_icons{
+    display: flex;
+}
+.header_lists{
+    display: flex;
+    /* margin: ; */
+}
+.header_list{
+    padding: 10px;
+    list-style-type: none;
+}
+.nav_bar{
+    display: flex;
+    border-style: solid;
+    /* padding: px ; */
+    background-color: white;
+    /* border-color:white; */
+    box-shadow: 3px;
+}
+.nav_lists{
+    display: flex;
+
+ }
+ .nav_list{
+    list-style-type: none;
+    padding: 24px;
+ }
